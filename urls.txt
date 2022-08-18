@@ -1,4 +1,4 @@
-product detail url: "http://localhost:5000/products/B09LYH9VCN?api_key=xxxxxxxxxxxxxxxxxxxxxxxx"
-product review url: "http://localhost:5000/products/B09LYH9VCN/reviews?api_key=xxxxxxxxxxxxxxxxxxxxxxxx"
-product Offers url: "http://localhost:5000/products/B09LYH9VCN/offers?api_key=xxxxxxxxxxxxxxxxxxxxxxxx"
-product Search url: "http://localhost:5000/search/macbook 20air?api_key=xxxxxxxxxxxxxxxxxxxxxxxx"
+product detail url: "http://localhost:5000/products/B09LYH9VCN?api_key=${your scraper api's api key }"
+product review url: "http://localhost:5000/products/B09LYH9VCN/reviews?api_key=${your scraper api's api key }"
+product Offers url: "http://localhost:5000/products/B09LYH9VCN/offers?api_key=${your scraper api's api key }"
+product Search url: "http://localhost:5000/search/macbook 20air?api_key=${your scraper api's api key }"
